@@ -1,0 +1,5 @@
+{
+  "streams": [
+    "http://10.0.0.14:5050/SPORTS/tracks-v1a1/mono.m3u8", "http://10.0.0.14:5050/AKASH/tracks-v1a1/mono.m3u8",
+  ]
+}
