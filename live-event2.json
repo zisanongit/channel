@@ -1,7 +1,8 @@
 
 {
   "streams": [
-    "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
+   
+
 
 "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
    
@@ -12,6 +13,7 @@
 "https://flussonic.defineatoz.com/btv/tracks-v1a1/mono.m3u8",
 
 "https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8",
+ "https://flussonic.deltainfonet.com/01_Tsports_HD/tracks-v1a1/mono.m3u8",
  "https://andro.evrenesoglu57.click/checklist/receptestt.m3u8"
   ]
 }
