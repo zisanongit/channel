@@ -1,6 +1,6 @@
 {
   "streams": [
-    "https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/index.m3u8",
+    "https://stream.ottplus.bd/live/max_sd_abr/live/max_sd_720/index.m3u8",
     "http://103.165.93.31:8095/unt-s/video.m3u8"
   ]
 }
