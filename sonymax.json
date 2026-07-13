@@ -1,6 +1,7 @@
 {
   "streams": [
-    "http://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/index.m3u8",
-    "http://103.165.93.31:8095/unt-s/video.m3u8"
+    
+    "http://103.165.93.31:8095/unt-s/video.m3u8",
+"http://stream.ottplus.bd/live/sony_max_sd_abr/live/sony_max_sd_720/index.m3u8"
   ]
 }
