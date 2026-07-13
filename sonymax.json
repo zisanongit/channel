@@ -1,6 +1,6 @@
 {
   "streams": [
-    "https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/l_114177_584000_146.ts?nimblesessionid=24686034",
+    "https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/index.m3u8",
     "http://103.165.93.31:8095/unt-s/video.m3u8"
   ]
 }
