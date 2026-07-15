@@ -1,1 +1,11 @@
-t
+{
+  "streams": [
+    "http://172.17.50.115:84/ant1001/tracks-v1a1/mono.m3u8",
+    "http://172.17.50.115:84/ant1002/tracks-v1a1/mono.m3u8",
+    "http://172.17.50.115:84/ant1003/tracks-v1a1/mono.m3u8",
+
+"http://172.17.50.115:84/ant1004/tracks-v1a1/mono.m3u8",
+
+"http://172.17.50.115:84/ant1005/tracks-v1a1/mono.m3u8"
+  ]
+}
