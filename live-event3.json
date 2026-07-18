@@ -1,6 +1,8 @@
 {
   "streams": [
-    "https://cdn-spotixa.pages.dev/ch1.m3u8",
+"https://live1.streambylivepulse.com/live/channel1/playlist.m3u8",
+
+"https://cdn-spotixa.pages.dev/ch1.m3u8",
     "https://pull.niues.live/live/stream-9912060_lhd.m3u8?",
 
 "https://bdixserver.tvhunter.top/ant1009/tracks-v1a1/index.m3u8",
