@@ -1,0 +1,7 @@
+{
+  "streams": [
+    "https://server1.com/live.m3u8",
+    "https://server2.com/live.m3u8",
+    "https://server3.com/live.m3u8"
+  ]
+}
