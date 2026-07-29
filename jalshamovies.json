@@ -1,6 +1,8 @@
 {
   "streams": [
     "http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0",
-    "http://103.191.99.248:5550/303/tracks-v1a1/mono.m3u8"
+    "http://103.191.99.248:5550/303/tracks-v1a1/mono.m3u8",
+
+"http://mpro4.site/live/1F17Z77UP9F3ZW5/qfASHrMbe4/76205.ts"
   ]
 }
