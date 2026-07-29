@@ -2,7 +2,8 @@
 {
   "streams": [
 "http://103.159.180.34:5001/live/625.m3u8",
- "https://sportixtoffe1.ajmainearafat.workers.dev/?key=@AJMAINE_999&ch=Zee"
+ "https://sportixtoffe1.ajmainearafat.workers.dev/?key=@AJMAINE_999&ch=Zee",
 
+"http://103.151.61.12/Z_BANGLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0"
   ]
 }
