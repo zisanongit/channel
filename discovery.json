@@ -1,1 +1,18 @@
-https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8
+
+{
+  "streams": [
+    {
+      "name": "Toffee",
+      "url": "https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8"
+    },
+    {
+      "name": "Bangla",
+      "url": "http://myxpanel.pro:80/live/Ander1/Ander1/694020.ts"
+    },
+    {
+      "name": "BDIP",
+      "url": "http://202.70.146.135:8000/play/a05z/index.m3u8"
+    }
+  ]
+}
+
