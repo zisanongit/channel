@@ -13,7 +13,11 @@
     },
     {
       "name": "Server 3 (BD)",
-      "url": "http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0"
+      "url": "http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8?token=i7bZaZWaFrSIE0"},
+
+{
+"name": "Server 4 (BD)",
+      "url": "http://27.124.71.27/Sun_Bangla/index.m3u8"
     }
   ]
 }
