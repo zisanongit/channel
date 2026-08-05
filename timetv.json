@@ -1,1 +1,12 @@
-https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
+{
+  "streams": [
+    {
+      "name": "Server 1",
+      "url": "https://cdn.streamcast.xyz/timetv/index.fmp4.m3u8"
+    },
+    {
+      "name": "Jagobd",
+      "url": "https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8"
+    }
+  ]
+}
