@@ -1,0 +1,13 @@
+{
+  "streams": [
+    
+    {
+      "name": "Server 1",
+      "url": "https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8"
+    }
+  ]
+}
