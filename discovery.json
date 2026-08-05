@@ -1,7 +1,11 @@
 
 {
   "streams": [
-    {
+  {
+      "name": "Server 1",
+      "url": "https://stream.ottplus.bd/live/discovery_sd_abr/index.m3u8"
+    },
+  {
       "name": "Toffee",
       "url": "https://mflixott.com/tv/toffee-by-maruf/live.php?id=discovery_hd&e=.m3u8"
     },
