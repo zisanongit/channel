@@ -10,7 +10,11 @@
     },
     {
       "name": "Akash GO",
-      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8"},
+{
+      "name": "Ayna",
+      "url": "https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8"
+
     }
   ]
 }
