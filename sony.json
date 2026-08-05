@@ -1,1 +1,17 @@
-https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
+
+{
+  "streams": [
+    {
+      "name": "SD",
+      "url": "https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8"
+    },
+    {
+      "name": "HD",
+      "url": "https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8"
+    },
+    {
+      "name": "",
+      "url": ""
+    }
+  ]
+}
