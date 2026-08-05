@@ -5,6 +5,9 @@
   "streams": [
     "https://cdn-2.pishow.tv/live/1459/master.m3u8",
 
-    "http://103.175.73.12:8080/live/53/53_0.m3u8"
+    "http://103.175.73.12:8080/live/53/53_0.m3u8",
+
+"http://103.175.73.12:8080/live/46/46_0.m3u8"
+
   ]
 }
