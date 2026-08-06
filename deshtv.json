@@ -1,0 +1,13 @@
+{
+  "streams": [
+    {
+      "name": "Jagobd",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://deshitv.deshitv24.net/live/myStream/playlist.m3u8"
+    
+    }
+  ]
+}
