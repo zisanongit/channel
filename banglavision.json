@@ -3,7 +3,11 @@
   "streams": [
     {
       "name": "Ayna",
-      "url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8"
+      "url": "https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8"},
+
+{
+"name": "Ayna 2",
+      "url": "https://tvsen5.aynaott.com/banglavision/tracks-v1a1/mono.ts.m3u8"}
     
     }
   ]
