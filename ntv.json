@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "Ayna 1",
+      "url": "https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8"
+    },
+
+    {
+      "name": "Ayna 2",
+      "url": "https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/tracks-v1a1/mono.ts.m3u8?e=1782665440"
+    }
+  ]
+}
+
