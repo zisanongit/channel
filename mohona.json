@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "name": "Server 1",
+      "url": "https://biostartvworld.pages.dev/api/key/aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tL2Nkbi9saXZlL21vaG9uYV90di8uLi9zbGFuZy9tb2hvbmFfdHZfNTc2L21vaG9uYV90dl81NzYubTN1OD9iaXRyYXRlPTEwMDAwMDAmY2hhbm5lbD1tb2hvbmFfdHZfNTc2JmdwX2lkPXx8fFRvZmZlZSAoTGludXg7QW5kcm9pZCAxNCl8fHx7ImNvb2tpZSI6IkVkZ2UtQ2FjaGUtQ29va2llPVVSTFByZWZpeD1hSFIwY0hNNkx5OWliR1JqYlhCeWIyUXRZMlJ1TG5SdlptWmxaV3hwZG1VdVkyOXQ6RXhwaXJlcz0xNzg2MTUzNDU3OktleU5hbWU9cHJvZF9saW5lYXI6U2lnbmF0dXJlPTA5V0xoRnZoOGpGWU8wYmFwVXZUWmh4M1ZxVkNtQlUwZTh6RHA4dlM2dlRoa21QcW94ZEMtVi1LWGhXS0FWRmhEb3VuSFpHMGVHOUFoYkpoWUI3Q0R3In0/mohona_tv_576.m3u8"
+    },
+    {
+      "name": "Server 2",
+      "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8"
+    },
+    {
+      "name": "",
+      "url": ""
+    }
+  ]
+}
