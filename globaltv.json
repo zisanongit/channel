@@ -4,7 +4,7 @@
 {
   "streams": [
     {
-      "name": "Server 2",
+      "name": "Server 1",
       "url": "https://stream.ottplus.live/live/global_tv_abr/index.m3u8"
     },
 
