@@ -1,10 +1,9 @@
 
 
-
 {
   "streams": [
-{
-      "name": "Ayna 1",
+    {
+      "name": "Ayna",
       "url": "https://tvsen3.aynaott.com/Sports1/mono.m3u8"
     },
     {
@@ -12,35 +11,20 @@
       "url": "https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8"
     },
     {
-      "name": "Server 2",
+      "name": "Server 3",
       "url": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8?nocache=1785251726367"
-    },
+    }
 {
       "name": "Server 4",
-      "url": "https://mflixott.com/tv/dd/live2.php/270.m3u8",
-
-    {
-      "name": "Server 5",
-      "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts"}
-  
-]
-
-}
-
-
+      "url": "https://mflixott.com/tv/dd/live2.php/270.m3u8"
+    },
 {
-  "streams": [
-    {
-      "name": "",
-      "url": ""
+      "name": "Server 5",
+      "url": "http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts"
     },
-    {
-      "name": "",
-      "url": ""
-    },
-    {
-      "name": "",
-      "url": ""
-    }
+
+
+
+
   ]
 }
